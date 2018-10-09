@@ -1,0 +1,10 @@
+D:\Vina\Pemrograman\LatihanWinForm\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+D:\Vina\Pemrograman\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojResolveAssemblyReference.cache
+D:\Vina\Pemrograman\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+D:\Vina\Pemrograman\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+D:\Vina\Pemrograman\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.Cache
+D:\Vina\Pemrograman\LatihanWinForm\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+D:\Vina\Pemrograman\LatihanWinForm\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+D:\Vina\Pemrograman\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+D:\Vina\Pemrograman\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+D:\Vina\Pemrograman\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
